@@ -1,5 +1,3 @@
-
-text
 # Deploying a Streamlit App to AWS Elastic Beanstalk
 
 To deploy a Streamlit app to AWS Elastic Beanstalk (EB), follow these steps:
